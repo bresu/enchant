@@ -9,9 +9,15 @@ Schon irgendwie funny das zu verwenden
 
 #### Usage
 
-```python enchant.py
+```
+python enchant.py
 
-Hello, what would you like to do?\n\n Press\n E for encryption\n D for decrpytion
+Hello, what would you like to do?
+ Press
+  E for encryption
+  D for decrpytion
 
 #drück e oder d und paste deine nachricht rein. fertisch
+
 ```
+Vielleicht hau ich irgendwann noch ein CLI interface mit flags wie -e -d dazu aber jetzt gerade kein Bock
